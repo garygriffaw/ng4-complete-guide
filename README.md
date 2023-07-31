@@ -1,5 +1,7 @@
 # Ng4CompleteGuide
 
+Course project for udemy course [Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2/).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
 ## Development server

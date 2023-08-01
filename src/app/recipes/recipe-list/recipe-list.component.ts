@@ -13,5 +13,10 @@ export class RecipeListComponent {
       'This is a test',
       'https://upload.wikimedia.org/wikipedia/commons/a/a9/10_minute_Recipe_for_a_Healthy_Garden_Salad_-_49859886512.jpg'
     ),
+    new Recipe(
+      'Recipe 2',
+      'This is another test',
+      'https://upload.wikimedia.org/wikipedia/commons/a/a9/10_minute_Recipe_for_a_Healthy_Garden_Salad_-_49859886512.jpg'
+    ),
   ];
 }
